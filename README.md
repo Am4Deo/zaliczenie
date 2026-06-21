@@ -8,5 +8,5 @@ Projekt zawiera podstrony i karty informacyjne o poszczególnych zwierzętach, w
 
 ## Wykorzystane technologie
 * **HTML** – implementacja strony internetowej i umieszczanie na niej treści.
-* **Git / GitHub** – kontrola wersji.
+* **GitHub** – kontrola wersji.
 * **Trello** – planowanie i organizacja zadań.
